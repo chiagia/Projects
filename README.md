@@ -1,9 +1,11 @@
 Here I present some small (and feasible, on my laptop) projects of ML and DL. These are trained and tested using datasets that can be easily found online.
 
 ## ML ⚙️
-🏠 House prices data $\rightarrow$ Simple linear regression.​
+🏠 House prices data $\rightarrow$ Simple linear regression.
+🦠​ Breast cancer data $\rightarrow$ Logistic regression.​
 
-## NN ​🌐​
+## NN ​🌐
+🚢​ Titanic dataset $\rightarrow$ Simple Neural Network implementation to predict if survive/not survive.​
 
 ## CNN 🖼️
 ​🐶​ Pet dataset $\rightarrow$ I use the Oxford pet dataset to train a simple model able to classify dogs and cats.
