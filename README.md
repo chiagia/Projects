@@ -6,5 +6,6 @@ Here I present some small (and feasible, on my laptop) projects of ML and DL. Th
 
 ## CNN 🖼️
 ​🐶​ Pet dataset $\rightarrow$ I use the Oxford pet dataset to train a simple model able to classify dogs and cats.
-\n👩🏻‍🦰​ Faces dataset $\rightarrow$ I use the CelebA dataset to train two types of models. One, very simple, that predicts if a person is Male/Female. Another, more complex, wich uses MobileNetV2 with fine tuning for a multi-label classification problem.
+
+👩🏻‍🦰​ Faces dataset $\rightarrow$ I use the CelebA dataset to train two types of models. One, very simple, that predicts if a person is Male/Female. Another, more complex, wich uses MobileNetV2 with fine tuning for a multi-label classification problem.
 
