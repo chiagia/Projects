@@ -2,6 +2,7 @@ Here I present some small (and feasible, on my laptop) projects of ML and DL. Th
 
 ## ML ⚙️
 🏠 House prices data $\rightarrow$ Simple linear regression.
+
 🦠​ Breast cancer data $\rightarrow$ Logistic regression.​
 
 ## NN ​🌐
