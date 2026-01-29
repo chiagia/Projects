@@ -16,3 +16,5 @@ Here I present some small (and feasible, on my laptop) projects of ML and DL. Th
 🌼 Flowers dataset $\rightarrow$ I use data augmentation techniques to solve an overfitting problem in a simple CNN.
 
 📸​ Photos and videos $\rightarrow$ I use the pre-trained YOLO model (v8 nano) to perform object detection and classification on photos and videos. Unfortunately, only the results on the pictures are shown (because of the limitations on the sizes of the files that can be uploaded).
+
+🌊​ Beach photo $\rightarrow$ I perform semantic, instance and panoptic segmentation with pre-trained model from HuggingFace (SegFormer, Mask R-CNN, Mask2Former) on a picture. 
