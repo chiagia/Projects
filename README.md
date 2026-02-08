@@ -1,20 +1,27 @@
-Here I present some small (and feasible, on my laptop) projects of ML and DL. These are trained and tested using datasets that can be easily found online.
+# Machine Learning & Deep Learning Portfolio
 
-## Machine Learning ⚙️
-🏠 House prices data $\rightarrow$ Simple linear regression.
+A collection of small, self-contained Machine Learning and Deep Learning projects, designed to run on a personal laptop and based on public datasets.
 
-🦠​ Breast cancer data $\rightarrow$ Logistic regression.​
+Each project focuses on data preprocessing, model training, evaluation, and interpretation.
 
-## Neural Networks ​🌐
-🚢​ Titanic dataset $\rightarrow$ Simple Neural Network implementation to predict if survive/not survive.​
+---
 
-## CNN and Computer Vision 🖼️
-​🐶​ Pet dataset $\rightarrow$ I use the Oxford pet dataset to train a simple model able to classify dogs and cats.
+## Projects
 
-👩🏻‍🦰​ Faces dataset $\rightarrow$ I use the CelebA dataset to train two types of models. One, very simple, that predicts if a person is Male/Female. Another, more complex, wich uses MobileNetV2 with fine tuning for a multi-label classification problem.
+### Machine Learning ⚙️
+- **House Prices** — Linear & Multiple Regression, Regularization (Ridge, Lasso, Elastic Net)
 
-🌼 Flowers dataset $\rightarrow$ I use data augmentation techniques to solve an overfitting problem in a simple CNN.
+### Neural Networks 🌐
+- **Titanic** — Fully Connected Neural Network for survival prediction
 
-📸​ Photos and videos $\rightarrow$ I use the pre-trained YOLO model (v8 nano) to perform object detection and classification on photos and videos. Unfortunately, only the results on the pictures are shown (because of the limitations on the sizes of the files that can be uploaded).
+### Computer Vision & CNN 🖼️
+- **Cats vs Dogs** — CNN on Oxford-IIIT Pet Dataset  
+- **Faces (CelebA)** — Gender classification & multi-label classification with MobileNetV2  
+- **Flowers** — CNN with data augmentation to reduce overfitting  
+- **Object Detection** — YOLOv8 on images and videos
+- **Image Segmentation** — Semantic, instance & panoptic segmentation (SegFormer, Mask R-CNN, Mask2Former)
 
-🌊​ Beach photo $\rightarrow$ I perform semantic, instance and panoptic segmentation with pre-trained model from HuggingFace (SegFormer, Mask R-CNN, Mask2Former) on a picture. 
+---
+
+## Tech Stack 🛠️
+Python · NumPy · Pandas · Scikit-learn · TensorFlow/Keras · PyTorch · HuggingFace · YOLO
