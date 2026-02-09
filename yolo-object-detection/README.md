@@ -8,8 +8,8 @@ The model is tested on:
 - Images with people, animals and vehicles
 - Urban street scenes
 - Natural environments (boats)
-
----
+- Video of a street (Video demo (YouTube): https://youtube.com/shorts/m9xqGtW6hRo?feature=share)
+- Video of a domestic environment (Video demo (YouTube): https://youtube.com/shorts/GsxBhs2j2zo?feature=share)
 
 ## Model
 - YOLOv8 Nano (Ultralytics)
