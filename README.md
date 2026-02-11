@@ -26,4 +26,4 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 ---
 
 ## Tech Stack 🛠️
-Python · NumPy · Pandas · Scikit-learn · TensorFlow/Keras · PyTorch · HuggingFace · YOLO
+Python · NumPy · Pandas · Scikit-learn · TensorFlow/Keras · PyTorch · HuggingFace · YOLO · Gensim · NLTK
