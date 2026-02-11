@@ -10,6 +10,7 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 
 ### Machine Learning ⚙️
 - **House Prices** — Linear & Multiple Regression, Regularization (Ridge, Lasso, Elastic Net)
+-  **SMS Spam Detection** — NLP pipeline with BoW, TF-IDF, Word2Vec and multiple ML models
 
 ### Neural Networks 🌐
 - **Titanic** — Fully Connected Neural Network for survival prediction
