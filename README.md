@@ -19,6 +19,8 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 ### Neural Networks 🌐
 - **Titanic** — Fully Connected Neural Network for survival prediction
 - **Fake News Classification** — NLP preprocessing, One-Hot encoding, LSTM, Dropout regularization
+- **Amazon Reviews Sentiment Analysis** —LSTM with trainable vs GloVe embeddings (frozen & fine-tuned)
+
 
 ### Computer Vision & CNN 🖼️
 - **Cats vs Dogs** — CNN on Oxford-IIIT Pet Dataset  
