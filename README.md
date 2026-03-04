@@ -21,6 +21,7 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 - **Fake News Classification** — NLP preprocessing, One-Hot encoding, LSTM, Dropout regularization
 - **Amazon Reviews Sentiment Analysis** —LSTM with trainable vs GloVe embeddings (frozen & fine-tuned)
 - **Named Entity Recognition (CoNLL-2003)** — BiLSTM for sequence labeling with padding, stacked LSTMs, dropout regularization and pre-trained GloVe embeddings
+- **IMDB Sentiment Classification** — GRU vs LSTM for sentiment analysis, sequence padding, packed sequences and early stopping
 
 
 ### Computer Vision & CNN 🖼️
