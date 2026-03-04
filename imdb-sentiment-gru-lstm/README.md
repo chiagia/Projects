@@ -36,9 +36,11 @@ Sequences are **truncated and padded to 300 tokens**.
 Two recurrent architectures are implemented:
 
 **GRU**
+
 Embedding → GRU → Linear → Sigmoid
 
 **LSTM**
+
 Embedding → LSTM → Linear → Sigmoid
 
 
