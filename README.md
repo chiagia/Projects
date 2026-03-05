@@ -14,6 +14,7 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 -  **IMDB Sentiment Classification** — Word2Vec (Domain vs Pre-trained) with Classical ML
 -  **Energy Efficiency Dataset** — Polynomial Regression, overfitting and Ridge regularization
 -  **Telco Customer Churn** — Random Forest with Pipeline, ROC-AUC optimization and Recall-focused tuning
+-  **Ames Housing Prices** — Gradient Boosting techniques: XGBoost, LightGBM, CatBoost
 
 
 ### Neural Networks 🌐
