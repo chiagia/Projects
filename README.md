@@ -15,6 +15,7 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 -  **Energy Efficiency Dataset** — Polynomial Regression, overfitting and Ridge regularization
 -  **Telco Customer Churn** — Random Forest with Pipeline, ROC-AUC optimization and Recall-focused tuning
 -  **Ames Housing Prices** — Gradient Boosting techniques: XGBoost, LightGBM, CatBoost
+-  **Energy Efficiency Dataset** — Support Vector Regression with Linear, Polynomial and RBF kernels
 
 
 ### Neural Networks 🌐
