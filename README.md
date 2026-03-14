@@ -8,6 +8,9 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 
 ## Projects
 
+### Encoreds, Decoders, Transformers 🤖​
+- **Seq2Seq Translation** - Encoder/decoder LSTM architecture with Attention, Gradient clipping, Beam search and Bleu score
+
 ### Machine Learning ⚙️
 - **House Prices** — Linear & Multiple Regression, Regularization (Ridge, Lasso, Elastic Net)
 -  **SMS Spam Detection** — NLP pipeline with BoW, TF-IDF, Word2Vec and multiple ML models
