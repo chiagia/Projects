@@ -21,6 +21,7 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 -  **Energy Efficiency Dataset** — Support Vector Regression with Linear, Polynomial and RBF kernels
 -  **Breast Cancer Dataset** — Logistic Regression, Regularization (L1, L2)
 -  **Hearth Disease Dataset** — K-NN with Cross Validation and Elbow Method, comparison with Random Forest, Decision Tree and Logistic Regression
+-  **Wine Classification** — LDA for classification and dimensionality reduction, comparison with PCA and QDA, cross-validation evaluation
 
 
 ### Neural Networks 🌐
