@@ -9,7 +9,8 @@ Each project focuses on data preprocessing, model training, evaluation, and inte
 ## Projects
 
 ### Encoreds, Decoders, Transformers 🤖​
-- **Seq2Seq Translation** - Encoder/decoder LSTM architecture with Attention, Gradient clipping, Beam search and Bleu score
+- **Seq2Seq Translation** — Encoder/decoder LSTM architecture with Attention, Gradient clipping, Beam search and Bleu score
+- **Emotion Classifier** — Fine-tuning of pre-trained DistilBERT base uncased, Error Analysis and Visualization of Attention
 
 ### Machine Learning ⚙️
 - **House Prices** — Linear & Multiple Regression, Regularization (Ridge, Lasso, Elastic Net)
