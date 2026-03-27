@@ -2,7 +2,6 @@
 
 A collection of small, self-contained Machine Learning and Deep Learning projects, designed to run on a personal laptop and based on public datasets.
 
-Each project focuses on data preprocessing, model training, evaluation, and interpretation.
 
 ---
 
