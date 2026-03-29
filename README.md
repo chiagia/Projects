@@ -24,6 +24,7 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 -  **Breast Cancer Dataset** — Logistic Regression, Regularization (L1, L2)
 -  **Hearth Disease Dataset** — K-NN with Cross Validation and Elbow Method, comparison with Random Forest, Decision Tree and Logistic Regression
 -  **Wine Classification** — LDA for classification and dimensionality reduction, comparison with PCA and QDA, cross-validation evaluation
+-  **Moons/Circles Datasets** — Linear vs RBF SVM on synthetic datasets, hyperparameter tuning ($\gamma$ and $C$)
 
 
 ### Neural Networks 🌐
