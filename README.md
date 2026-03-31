@@ -12,6 +12,7 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 - **Emotion Classifier** — Fine-tuning of pre-trained DistilBERT base uncased, Error Analysis and Visualization of Attention
 - **GPT-2 Inference Lab** — BPE Tokenization, Next-token prediction, Decoding strategies (Greedy, Temperature, Top-K and Top-P)
 - **Text Summarization** — Compare ROUGE-1/2/L scores between T5 vs GPT-2 (zero-shot and few-shot) vs Baseline Models
+- **Tokenization & Embedding** — WordPiece, BPE and SentencePiece; Static (GloVe) vs Contextual (BERT tokenizer) Embeddings
 
 ### Machine Learning ⚙️
 - **House Prices** — Linear & Multiple Regression, Regularization (Ridge, Lasso, Elastic Net)
