@@ -14,6 +14,7 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 - **Text Summarization** — Compare ROUGE-1/2/L scores between T5 vs GPT-2 (zero-shot and few-shot) vs Baseline Models
 - **Tokenization & Embedding** — WordPiece, BPE and SentencePiece; Static (GloVe) vs Contextual (BERT tokenizer) Embeddings
 - **Prompt Engineering** — Prompting strategies (Zero-shot, Few-shot and Chain-of-Thought) on FLAN-T5 with different tasks
+- **Fine-tuning Project** — Fine tuning of distilGPT2 for sentiment analysis task, using LoRA
 
 ### Machine Learning ⚙️
 - **House Prices** — Linear & Multiple Regression, Regularization (Ridge, Lasso, Elastic Net)
