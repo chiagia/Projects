@@ -28,6 +28,7 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 -  **Hearth Disease Dataset** — K-NN with Cross Validation and Elbow Method, comparison with Random Forest, Decision Tree and Logistic Regression
 -  **Wine Classification** — LDA for classification and dimensionality reduction, comparison with PCA and QDA, cross-validation evaluation
 -  **Moons/Circles Datasets** — Linear vs RBF SVM on synthetic datasets, hyperparameter tuning ($\gamma$ and $C$)
+-  **Credit Card Fraud Detection Dataset** — K-Means for Clustering using Elbow method, comparison with Isolation Forest and Local Outlier Factor
 
 
 ### Neural Networks 🌐
