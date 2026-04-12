@@ -29,7 +29,8 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 -  **Wine Classification** — LDA for classification and dimensionality reduction, comparison with PCA and QDA, cross-validation evaluation
 -  **Moons/Circles Datasets** — Linear vs RBF SVM on synthetic datasets, hyperparameter tuning ($\gamma$ and $C$)
 -  **Credit Card Fraud Detection Dataset** — K-Means for Clustering using Elbow method, comparison with Isolation Forest and Local Outlier Factor
--  **Spotify Tracks Dataset** — Hierarchical Clustering for Music Personalities & Recommender System 
+-  **Spotify Tracks Dataset** — Hierarchical Clustering for Music Personalities & Recommender System
+-  **Custom and Artificial Datasets** — Probabilistic (Gaussian Mixture Models) vs Density-based (DBSCAN) Clustering, Silhouette Score
 
 
 ### Neural Networks 🌐
