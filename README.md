@@ -31,7 +31,7 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 -  **Credit Card Fraud Detection Dataset** — K-Means for Clustering using Elbow method, comparison with Isolation Forest and Local Outlier Factor
 -  **Spotify Tracks Dataset** — Hierarchical Clustering for Music Personalities & Recommender System
 -  **Custom and Artificial Datasets** — Probabilistic (Gaussian Mixture Models) vs Density-based (DBSCAN) Clustering, Silhouette Score
--  **Zachary Karate Club** — Community Detection using Spectral Clustering
+-  **Zachary Karate Club** — Community Detection on a Network using Spectral Clustering
 
 
 ### Neural Networks 🌐
@@ -52,4 +52,4 @@ A collection of small, self-contained Machine Learning and Deep Learning project
 ---
 
 ## Tech Stack 🛠️
-Python · NumPy · Pandas · Scikit-learn · TensorFlow/Keras · PyTorch · HuggingFace · YOLO · Gensim · NLTK
+Python · NumPy · Pandas · Scikit-learn · TensorFlow/Keras · PyTorch · HuggingFace · YOLO · Gensim · NLTK · Networkx
